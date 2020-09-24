@@ -2,7 +2,8 @@
 <p>The project utilizes a machine learning model to predict a high school student's final  Mathematics marks
 . The prediction is based on factors such as student's first and second periods marks, studytime,
 family life, internet access etc.</p>
-<p>Linear Regression, DecisionTree Regression, RandomForest Regression and Lasso Regression Models were used to fit the data. Lasso Regression Model produced the lowest root mean squared error. The final model can found in the root directory of the project and the dataset is in the student directory</p>
+<p>Linear Regression, DecisionTree Regression, RandomForest Regression and Lasso Regression Models were used to fit the data. Lasso Regression Model produced the lowest root mean squared error. The final model can found in the root directory of the project and the dataset is in the student directory.</p>
+<p>Python and the Scikit-Learn, NumPy, Pandas and Matplotlib libraries were utilized to complete the project.</p>
 <h2> installations</h2> 
 <p>All the project code is contained in a jupyter notebook.
 You can install the <a href="http://www.anaconda.com">Anaconda</a> data science  toolkit to view the notebook.</p>
